@@ -1,0 +1,11 @@
+/ ---v-----v-----v
+   home   lib   sys
+     |     |     |
+     |     *     *#SystemFiles
+     |
+     |--v------v--------v---
+      Admin Other User Accounts
+        L__v____v__________v_______v
+        Desktop Documents  userset prefrences
+                              |        |
+        	 UserSettings#*        *.txt files
