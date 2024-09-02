@@ -3,3 +3,9 @@ You can comment on this githup project to message me about diffrent stuff that m
 
 goodbye for now;
 TheProGamer9669
+
+Update 09/02/2024 
+I have started work on the Kernal.
+
+goodbye for now;
+TheProGamer9669
