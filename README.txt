@@ -9,3 +9,8 @@ I have started work on the Kernal.
 
 goodbye for now;
 TheProGamer9669
+
+update 09/02/2024
+added file system image
+goodbye for now;
+TheProGamer9669
