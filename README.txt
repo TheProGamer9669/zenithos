@@ -12,5 +12,7 @@ TheProGamer9669
 
 update 09/02/2024
 added file system image
+* means LOTS more files
+# means a comment
 goodbye for now;
 TheProGamer9669
